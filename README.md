@@ -1,1 +1,1 @@
-# WebScarper
+This program uses the BeautifulSoup and requests libraries to scrape the price of a product from the Amazon website. The program takes a single argument, which is the URL of the product page on Amazon. It then extracts the price of the product and returns it as a string.
